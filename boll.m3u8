@@ -1171,7 +1171,60 @@ http://91.207.115.228:5000/c102
 
 
 
+#EXTINF:-1 group-title="Обновление",Update 21.02.2026 19:20 по моск. времени
+http://127.0.0.1:6878/ace/getstream?id=a54d3ec9d49487cb1e9102c74f341fec4cebd189
 
+#EXTINF:-1 group-title="Torent RU",Pimpletv 016d4
+http://127.0.0.1:6878/ace/getstream?id=016d48fb89bb9505ab3f883db1bfb3a7c0a3eccc
+#EXTINF:-1 group-title="Torent RU",Pimpletv 350b2
+http://127.0.0.1:6878/ace/getstream?id=350b2044f1c9e87e18d8fbda1bcc456c22cf9296
+#EXTINF:-1 group-title="Torent RU",Pimpletv 8442b
+http://127.0.0.1:6878/ace/getstream?id=8442b5c7c99e5af57c2c40c1e28153072968988a
+#EXTINF:-1 group-title="Torent RU",Pimpletv aca05
+http://127.0.0.1:6878/ace/getstream?id=aca05dc506242324c1727525d0535ceda24f8dea
+#EXTINF:-1 group-title="Torent RU",Pimpletv bc99b
+http://127.0.0.1:6878/ace/getstream?id=bc99becb2a74f8f455d6dbaa3bd85c6c7e938a6c
+#EXTINF:-1 group-title="Torent RU",Pimpletv e38b3
+http://127.0.0.1:6878/ace/getstream?id=e38b33c56332de27ff25df223cdf488b1ec6051f
+
+#EXTINF:-1 group-title="Torent RU",ACETOP-FHD
+http://127.0.0.1:6878/ace/getstream?id=cf49017a8fa07b42d126fa681b51c141cc1a8fff
+#EXTINF:-1 group-title="Torent RU",ACETOP-1
+http://127.0.0.1:6878/ace/getstream?id=65d49691687add6a93692a757817bac4f204ed1f
+#EXTINF:-1 group-title="Torent RU",ACETOP-2
+http://127.0.0.1:6878/ace/getstream?id=78637dab85e7948057165ad0c80b3db475dd9c3d
+#EXTINF:-1 group-title="Torent RU",ACETOP-3
+http://127.0.0.1:6878/ace/getstream?id=99da47072cf6d0d9323479791026c48961889557
+
+#EXTINF:-1 group-title="Torent RU",Матч ТВ
+http://127.0.0.1:6878/ace/getstream?id=a203f6b935a8ad8659c4c76c1d9c13afa6368ef2
+#EXTINF:-1 group-title="Torent RU",Матч ТВ
+http://127.0.0.1:6878/ace/getstream?id=f69b2859510dce33b992dd1940f95254c6e6f51c
+
+#EXTINF:-1 group-title="Torent RU",Матч Премьер HD
+http://127.0.0.1:6878/ace/getstream?id=4b7c5f21b435d79c823e47572655a9c157a3ba12
+#EXTINF:-1 group-title="Torent RU",Матч Премьер HD
+http://127.0.0.1:6878/ace/getstream?id=88c482d9e57b1a031c032344f9c00cf7b36da8d9
+
+#EXTINF:-1 group-title="Torent RU",МАТЧ! Футбол 1
+http://127.0.0.1:6878/ace/getstream?id=b28db77c5084da7993395d77df96c30bb134f0a9
+
+#EXTINF:-1 group-title="Torent RU",МАТЧ! Футбол 2
+http://127.0.0.1:6878/ace/getstream?id=ffbf8c687c788d9a1a7c651e24802ee773ff3f04
+
+#EXTINF:-1 group-title="Torent RU",МАТЧ! Футбол 3
+http://127.0.0.1:6878/ace/getstream?id=b6baa046075d82da300fc1b16de96067a8b9540e
+#EXTINF:-1 group-title="Torent RU",МАТЧ! Футбол 3
+http://127.0.0.1:6878/ace/getstream?id=7f6ceda82b964c416983ab233787cee4e2333435
+
+#EXTINF:-1 group-title="Torent RU",МАТЧ! Игра
+http://127.0.0.1:6878/ace/getstream?id=762e1d11f7d07029f316c6f61b8ef73289c6673c
+
+#EXTINF:-1 group-title="Torent RU",МАТЧ! Арена
+http://127.0.0.1:6878/ace/getstream?id=a1d67cb505881b2b5bc58ce2af367e5e6d26cab5
+
+#EXTINF:-1 group-title="Torent RU",МАТЧ! Страна
+http://127.0.0.1:6878/ace/getstream?id=ef9c77bd94783448b8edb552109f5f15b2bd82d1
 
 
 
