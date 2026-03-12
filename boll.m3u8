@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG,http://epg.one/epg2.xml.gz"
 
 #EXTINF:-1 group-title="Матч" tvg-id="2051" tvg-logo="http://epg.one/img/2051.png" tvg-rec="7",Матч ТВ HD
-http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/535/index.m3u8
+http://rr3.tvdosug.net/~2018c4c4ccb968cd24db316fdc6d7c7da7e/5/hls/pl.m3u8
 #EXTINF:0 group-title="Матч" tvg-id="2051" tvg-logo="http://epg.one/img/2051.png" tvg-rec="7",Матч ТВ HD
 http://54.38.180.159/207/video.m3u8?token=A3b61a999e
 #EXTINF:-1 group-title="Матч" tvg-id="2051" tvg-logo="http://epg.one/img/2051.png" tvg-rec="7",Матч ТВ HD
@@ -9,32 +9,11 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AH6UVL33CFQ6K5QSNYDRGKBC
 #EXTINF:-1 group-title="Матч" tvg-id="2051" tvg-logo="http://epg.one/img/2051.png" tvg-rec="7",Матч ТВ HD
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AH6UVL33CFQ6K5QSNYDRGKBC/535/index.m3u8
 
-#EXTINF:-1 group-title="Матч" tvg-id="2051" tvg-logo="http://epg.one/img/2051.png" tvg-rec="7",Матч ТВ +0 (Липецк)
-http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/15314/index.m3u8
-#EXTINF:-1 group-title="Матч" tvg-id="2051" tvg-logo="http://epg.one/img/2051.png" tvg-rec="7",Матч ТВ +0 (Белгород)
-http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/15409/index.m3u8
-#EXTINF:-1 group-title="Матч" tvg-id="2051" tvg-logo="http://epg.one/img/2051.png" tvg-rec="7",Матч ТВ +0 (Элиста)
-http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/15448/index.m3u8
-#EXTINF:-1 group-title="Матч" tvg-id="2051" tvg-logo="http://epg.one/img/2051.png" tvg-rec="7",Матч ТВ +2 (Уфа)
-http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/15307/index.m3u8
-#EXTINF:-1 group-title="Матч" tvg-id="2051" tvg-logo="http://epg.one/img/2051.png" tvg-rec="7",Матч ТВ +2
-http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/6012/index.m3u8
-#EXTINF:-1 group-title="Матч" tvg-id="2051" tvg-logo="http://epg.one/img/2051.png" tvg-rec="7",Матч ТВ +4 (Томск)
-http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/15387/index.m3u8
-#EXTINF:-1 group-title="Матч" tvg-id="2051" tvg-logo="http://epg.one/img/2051.png" tvg-rec="7",Матч ТВ +4 (Алтай)
-http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/15289/index.m3u8
-#EXTINF:-1 group-title="Матч" tvg-id="2051" tvg-logo="http://epg.one/img/2051.png" tvg-rec="7",Матч ТВ +7 (Владивосток)
-http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/15335/index.m3u8
-
-
-
-
-
 
 #EXTINF:0 group-title="Матч" tvg-id="2250" tvg-logo="http://epg.one/img/2250.png" tvg-rec="7",Матч! Премьер HD
 http://54.38.180.159/208/video.m3u8?token=A3b61a999e
 #EXTINF:-1 group-title="Матч" tvg-id="2250" tvg-logo="http://epg.one/img/2250.png" tvg-rec="7",Матч! Премьер HD
-http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/531/index.m3u8
+http://rr3.tvdosug.net/~2018c4c4ccb968cd24db316fdc6d7c7da7e/58793/hls/pl.m3u8
 #EXTINF:-1 group-title="Матч" tvg-id="2250" tvg-logo="http://epg.one/img/2250.png" tvg-rec="7",Матч! Премьер HD
 http://jexywacp.tvclub.xyz/iptv/U5MT6SA5XYW4GS5FHQCYDAD4/10021/index.m3u
 #EXTINF:-1 group-title="Матч" tvg-id="2250" tvg-logo="http://epg.one/img/2250.png" tvg-rec="7",Матч! Премьер HD
@@ -43,53 +22,32 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AH6UVL33CFQ6K5QSNYDRGKBC
 #EXTINF:0 group-title="Матч" tvg-id="2044" tvg-logo="http://epg.one/img/2044.png" tvg-rec="7",Матч! Футбол 1 HD
 http://54.38.180.159/202/video.m3u8?token=A3b61a999e
 #EXTINF:0 group-title="Матч" tvg-id="2044" tvg-logo="http://epg.one/img/2044.png" tvg-rec="7",Матч! Футбол 1 HD
-http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/124/index.m3u8
+http://rr3.tvdosug.net/~2018c4c4ccb968cd24db316fdc6d7c7da7e/52846/hls/pl.m3u8
 #EXTINF:0 group-title="Матч" tvg-id="2044" tvg-logo="http://epg.one/img/2044.png" tvg-rec="7",Матч! Футбол 1 HD
 http://22fdd620.kazaktelekom.com/iptv/8KSD5KFDXA6H88/222/index.m3u8
 #EXTINF:0 group-title="Матч" tvg-id="2044" tvg-logo="http://epg.one/img/2044.png" tvg-rec="7",Матч! Футбол 1 HD
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AH6UVL33CFQ6K5QSNYDRGKBC/5072/index.m3u8
-#EXTINF:0 group-title="Матч" tvg-id="2044" tvg-logo="http://epg.one/img/2044.png" tvg-rec="7",Матч! Футбол 1 HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AH6UVL33CFQ6K5QSNYDRGKBC/2407/index.m3u8
-#EXTINF:0 group-title="Матч" tvg-id="2044" tvg-logo="http://epg.one/img/2044.png" tvg-rec="7",Матч! Футбол 1 HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AH6UVL33CFQ6K5QSNYDRGKBC/10015/index.m3u8
-#EXTINF:0 group-title="Матч" tvg-id="2044" tvg-logo="http://epg.one/img/2044.png" tvg-rec="7",Матч! Футбол 1 HD
-http://jexywacp.tvclub.xyz/iptv/U5MT6SA5XYW4GS5FHQCYDAD4/2407/index.m3u
-#EXTINF:0 group-title="Матч" tvg-id="2044" tvg-logo="http://epg.one/img/2044.png" tvg-rec="7",Матч! Футбол 1 HD
-http://jexywacp.tvclub.xyz/iptv/U5MT6SA5XYW4GS5FHQCYDAD4/2407/index.m3u8
+
 
 #EXTINF:0 group-title="Матч" tvg-id="1042" tvg-logo="http://epg.one/img/1042.png" tvg-rec="7",Матч! Футбол 2 HD
 http://54.38.180.159/203/video.m3u8?token=A3b61a999e
 #EXTINF:0 group-title="Матч" tvg-id="1042" tvg-logo="http://epg.one/img/1042.png" tvg-rec="7",Матч! Футбол 2 HD
-http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/530/index.m3u8
+http://rr3.tvdosug.net/~2018c4c4ccb968cd24db316fdc6d7c7da7e/35647/hls/pl.m3u8
 #EXTINF:0 group-title="Матч" tvg-id="1042" tvg-logo="http://epg.one/img/1042.png" tvg-rec="7",Матч! Футбол 2 HD
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AH6UVL33CFQ6K5QSNYDRGKBC/211/index.m3u8
 #EXTINF:0 group-title="Матч" tvg-id="1042" tvg-logo="http://epg.one/img/1042.png" tvg-rec="7",Матч! Футбол 2 HD
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AH6UVL33CFQ6K5QSNYDRGKBC/2420/index.m3u8
-#EXTINF:0 group-title="Матч" tvg-id="1042" tvg-logo="http://epg.one/img/1042.png" tvg-rec="7",Матч! Футбол 2 HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AH6UVL33CFQ6K5QSNYDRGKBC/290/index.m3u8
-#EXTINF:0 group-title="Матч" tvg-id="1042" tvg-logo="http://epg.one/img/1042.png" tvg-rec="7",Матч! Футбол 2 HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AH6UVL33CFQ6K5QSNYDRGKBC/10027/index.m3u8
-#EXTINF:0 group-title="Матч" tvg-id="1042" tvg-logo="http://epg.one/img/1042.png" tvg-rec="7",Матч! Футбол 2 HD
-http://jexywacp.tvclub.xyz/iptv/U5MT6SA5XYW4GS5FHQCYDAD4/2420/index.m3u
-#EXTINF:0 group-title="Матч" tvg-id="1042" tvg-logo="http://epg.one/img/1042.png" tvg-rec="7",Матч! Футбол 2 HD
-http://jexywacp.tvclub.xyz/iptv/U5MT6SA5XYW4GS5FHQCYDAD4/2420/index.m3u8
+
 
 #EXTINF:0 group-title="Матч" tvg-id="2005" tvg-logo="http://epg.one/img/2005.png" tvg-rec="7",Матч! Футбол 3 HD
 http://54.38.180.159/204/video.m3u8?token=A3b61a999e
 #EXTINF:-1 group-title="Матч" tvg-id="2005" tvg-logo="http://epg.one/img/2005.png" tvg-rec="7",Матч! Футбол 3 HD
-http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/522/index.m3u8
+http://rr3.tvdosug.net/~2018c4c4ccb968cd24db316fdc6d7c7da7e/48756/hls/pl.m3u8
 #EXTINF:-1 group-title="Матч" tvg-id="2005" tvg-logo="http://epg.one/img/2005.png" tvg-rec="7",Матч! Футбол 3 HD
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AH6UVL33CFQ6K5QSNYDRGKBC/206/index.m3u8
 #EXTINF:-1 group-title="Матч" tvg-id="2005" tvg-logo="http://epg.one/img/2005.png" tvg-rec="7",Матч! Футбол 3 HD
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AH6UVL33CFQ6K5QSNYDRGKBC/5071/index.m3u8
-#EXTINF:-1 group-title="Матч" tvg-id="2005" tvg-logo="http://epg.one/img/2005.png" tvg-rec="7",Матч! Футбол 3 HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AH6UVL33CFQ6K5QSNYDRGKBC/2408/index.m3u8
-#EXTINF:-1 group-title="Матч" tvg-id="2005" tvg-logo="http://epg.one/img/2005.png" tvg-rec="7",Матч! Футбол 3 HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AH6UVL33CFQ6K5QSNYDRGKBC/10016/index.m3u8
-#EXTINF:-1 group-title="Матч" tvg-id="2005" tvg-logo="http://epg.one/img/2005.png" tvg-rec="7",Матч! Футбол 3 HD
-http://jexywacp.tvclub.xyz/iptv/U5MT6SA5XYW4GS5FHQCYDAD4/2408/index.m3u8
-#EXTINF:-1 group-title="Матч" tvg-id="2005" tvg-logo="http://epg.one/img/2005.png" tvg-rec="7",Матч! Футбол 3 HD
-http://jexywacp.tvclub.xyz/iptv/U5MT6SA5XYW4GS5FHQCYDAD4/2408/index.m3u8
+
 
 #EXTINF:-1 group-title="Окко" tvg-id="9324" tvg-logo="http://epg.one/img/9324.png" tvg-rec="0",Окко Прайм Спорт HD
 http://54.38.180.159/236/video.m3u8?token=A3b61a999e
@@ -98,7 +56,7 @@ http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/20135/index.m3u8
 #EXTINF:-1 group-title="Окко" tvg-id="9324" tvg-logo="http://epg.one/img/9324.png" tvg-rec="0",Окко Прайм Спорт HD
 http://x3m.li/live/buk8YDg1/kXBoUb25/18898.m3u8
 #EXTINF:-1 group-title="Окко" tvg-id="9324" tvg-logo="http://epg.one/img/9324.png" tvg-rec="0",Окко Прайм Спорт HD
-http://gr.seetv.cc/play/1833/D70CC021CA87DF2/video.m3u8
+http://rr3.tvdosug.net/~2018c4c4ccb968cd24db316fdc6d7c7da7e/63719/hls/pl.m3u8
 
 
 #EXTINF:0 group-title="Окко" tvg-id="7889" tvg-logo="http://epg.one/img/7889.png" tvg-rec="0",Окко Спорт HD
@@ -108,7 +66,7 @@ http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/20138/index.m3u8
 #EXTINF:0 group-title="Окко" tvg-id="7889" tvg-logo="http://epg.one/img/7889.png" tvg-rec="3",Окко Спорт HD
 http://x3m.li/live/buk8YDg1/kXBoUb25/18899.m3u8
 #EXTINF:0 group-title="Окко" tvg-id="7889" tvg-logo="http://epg.one/img/7889.png" tvg-rec="3",Окко Спорт HD
-http://gr.seetv.cc/play/7337/D70CC021CA87DF2/video.m3u8
+http://rr3.tvdosug.net/~2018c4c4ccb968cd24db316fdc6d7c7da7e/73732/hls/pl.m3u8
 
 #EXTINF:0 group-title="Окко" tvg-id="9325" tvg-logo="http://epg.one/img/9325.png" tvg-rec="3",Окко Футбол HD
 http://54.38.180.159/232/video.m3u8?token=A3b61a999e
@@ -117,7 +75,7 @@ http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/6554/index.m3u8
 #EXTINF:0 group-title="Окко" tvg-id="9325" tvg-logo="http://epg.one/img/9325.png" tvg-rec="3",Окко Футбол HD
 http://x3m.li/live/buk8YDg1/kXBoUb25/19054.m3u8
 #EXTINF:0 group-title="Окко" tvg-id="9325" tvg-logo="http://epg.one/img/9325.png" tvg-rec="3",Окко Футбол HD
-http://gr.seetv.cc/play/7338/D70CC021CA87DF2/video.m3u8
+http://rr3.tvdosug.net/~2018c4c4ccb968cd24db316fdc6d7c7da7e/63048/hls/pl.m3u8
 
 
 #EXTINF:-1 tvg-id="9384" tvg-logo="http://epg.one/img/9384.png" tvg-name="" group-title="Okko Event",ОККО EVENT 1
@@ -1225,6 +1183,8 @@ http://127.0.0.1:6878/ace/getstream?id=a1d67cb505881b2b5bc58ce2af367e5e6d26cab5
 
 #EXTINF:-1 group-title="Torent RU",МАТЧ! Страна
 http://127.0.0.1:6878/ace/getstream?id=ef9c77bd94783448b8edb552109f5f15b2bd82d1
+
+
 
 
 
