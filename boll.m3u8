@@ -7,7 +7,7 @@ http://54.38.180.159/207/video.m3u8?token=A3b61a999e
 #EXTINF:-1 group-title="Матч" tvg-id="2051" tvg-logo="http://epg.one/img/2051.png" tvg-rec="7",Матч ТВ HD
 http://146.59.93.251/10451/index.m3u8?token=B0CD410F7837
 #EXTINF:-1 group-title="Матч" tvg-id="2051" tvg-logo="http://epg.one/img/2051.png" tvg-rec="7",Матч ТВ HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AH6UVL33CFQ6K5QSNYDRGKBC/535/index.m3u8
+http://bde.online24.pm/play/5/E0B9D2508CF5B92/video.m3u8
 
 
 #EXTINF:0 group-title="Матч" tvg-id="2250" tvg-logo="http://epg.one/img/2250.png" tvg-rec="7",Матч! Премьер HD
@@ -17,7 +17,7 @@ http://rr3.tvdosug.net/~2018c4c4ccb968cd24db316fdc6d7c7da7e/58793/hls/pl.m3u8
 #EXTINF:-1 group-title="Матч" tvg-id="2250" tvg-logo="http://epg.one/img/2250.png" tvg-rec="7",Матч! Премьер HD
 http://146.59.93.251/10455/index.m3u8?token=B0CD410F7837
 #EXTINF:-1 group-title="Матч" tvg-id="2250" tvg-logo="http://epg.one/img/2250.png" tvg-rec="7",Матч! Премьер HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AH6UVL33CFQ6K5QSNYDRGKBC/531/index.m3u8
+http://realcdn.top:8080/free/iptv/TF4HC57RYNUUFV/220/index.m3u8
 
 #EXTINF:0 group-title="Матч" tvg-id="2044" tvg-logo="http://epg.one/img/2044.png" tvg-rec="7",Матч! Футбол 1 HD
 http://54.38.180.159/202/video.m3u8?token=A3b61a999e
@@ -57,7 +57,14 @@ http://146.59.93.251/10517/index.m3u8?token=B0CD410F7837
 http://x3m.li/live/buk8YDg1/kXBoUb25/18898.m3u8
 #EXTINF:-1 group-title="Окко" tvg-id="9324" tvg-logo="http://epg.one/img/9324.png" tvg-rec="0",Окко Прайм Спорт HD
 http://rr3.tvdosug.net/~2018c4c4ccb968cd24db316fdc6d7c7da7e/63719/hls/pl.m3u8
-
+#EXTINF:-1 group-title="Окко" tvg-id="9324" tvg-logo="http://epg.one/img/9324.png" tvg-rec="0",Окко Прайм Спорт HD
+http://as01.plinkspile.su/7339/index.m3u8?token=DsW6h5CTqivu5X
+#EXTINF:-1 group-title="Окко" tvg-id="9324" tvg-logo="http://epg.one/img/9324.png" tvg-rec="0",Окко Прайм Спорт HD
+http://as01.plinkspile.su/7339/index.m3u8?token=WDnbBwtZuexAEa
+#EXTINF:-1 group-title="Окко" tvg-id="9324" tvg-logo="http://epg.one/img/9324.png" tvg-rec="0",Окко Прайм Спорт HD
+http://6afab026.russtv.net/iptv/BGYHD5NF8C2QCX/20135/index.m3u8
+#EXTINF:-1 group-title="Окко" tvg-id="9324" tvg-logo="http://epg.one/img/9324.png" tvg-rec="0",Окко Прайм Спорт HD
+http://realcdn.top:8080/free/iptv/TF4HC57RYNUUFV/20135/index.m3u8
 
 #EXTINF:0 group-title="Окко" tvg-id="7889" tvg-logo="http://epg.one/img/7889.png" tvg-rec="0",Окко Спорт HD
 http://54.38.180.159/238/video.m3u8?token=A3b61a999e
@@ -67,6 +74,14 @@ http://146.59.93.251/10403/index.m3u8?token=B0CD410F7837
 http://x3m.li/live/buk8YDg1/kXBoUb25/18899.m3u8
 #EXTINF:0 group-title="Окко" tvg-id="7889" tvg-logo="http://epg.one/img/7889.png" tvg-rec="3",Окко Спорт HD
 http://rr3.tvdosug.net/~2018c4c4ccb968cd24db316fdc6d7c7da7e/73732/hls/pl.m3u8
+#EXTINF:0 group-title="Окко" tvg-id="7889" tvg-logo="http://epg.one/img/7889.png" tvg-rec="3",Окко Спорт HD
+http://realcdn.top:8080/free/iptv/TF4HC57RYNUUFV/20138/index.m3u8
+#EXTINF:0 group-title="Окко" tvg-id="7889" tvg-logo="http://epg.one/img/7889.png" tvg-rec="3",Окко Спорт HD
+http://6afab026.russtv.net/iptv/BGYHD5NF8C2QCX/20138/index.m3u8
+#EXTINF:0 group-title="Окко" tvg-id="7889" tvg-logo="http://epg.one/img/7889.png" tvg-rec="3",Окко Спорт HD
+http://as01.plinkspile.su/7337/index.m3u8?token=WDnbBwtZuexAEa
+#EXTINF:0 group-title="Окко" tvg-id="7889" tvg-logo="http://epg.one/img/7889.png" tvg-rec="3",Окко Спорт HD
+http://as01.plinkspile.su/7337/index.m3u8?token=DsW6h5CTqivu5X
 
 #EXTINF:0 group-title="Окко" tvg-id="9325" tvg-logo="http://epg.one/img/9325.png" tvg-rec="3",Окко Футбол HD
 http://54.38.180.159/232/video.m3u8?token=A3b61a999e
@@ -76,99 +91,106 @@ http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/6554/index.m3u8
 http://x3m.li/live/buk8YDg1/kXBoUb25/19054.m3u8
 #EXTINF:0 group-title="Окко" tvg-id="9325" tvg-logo="http://epg.one/img/9325.png" tvg-rec="3",Окко Футбол HD
 http://rr3.tvdosug.net/~2018c4c4ccb968cd24db316fdc6d7c7da7e/63048/hls/pl.m3u8
-
+#EXTINF:0 group-title="Окко" tvg-id="9325" tvg-logo="http://epg.one/img/9325.png" tvg-rec="3",Окко Футбол HD
+http://as01.plinkspile.su/7338/index.m3u8?token=DsW6h5CTqivu5X
+#EXTINF:0 group-title="Окко" tvg-id="9325" tvg-logo="http://epg.one/img/9325.png" tvg-rec="3",Окко Футбол HD
+http://as01.plinkspile.su/7338/index.m3u8?token=WDnbBwtZuexAEa
+#EXTINF:0 group-title="Окко" tvg-id="9325" tvg-logo="http://epg.one/img/9325.png" tvg-rec="3",Окко Футбол HD
+http://6afab026.russtv.net/iptv/BGYHD5NF8C2QCX/6554/index.m3u8
+#EXTINF:0 group-title="Окко" tvg-id="9325" tvg-logo="http://epg.one/img/9325.png" tvg-rec="3",Окко Футбол HD
+http://6afab026.russtv.net/iptv/BGYHD5NF8C2QCX/6554/index.m3u8
 
 #EXTINF:-1 tvg-id="9384" tvg-logo="http://epg.one/img/9384.png" tvg-name="" group-title="Okko Event",ОККО EVENT 1
 http://x3m.li/live/buk8YDg1/kXBoUb25/18968.m3u8
 #EXTINF:-1 tvg-id="9384" tvg-logo="http://epg.one/img/9384.png" tvg-name="" group-title="Okko Event",ОККО EVENT 1
-http://4afc0bdb.rossteleccom.net/iptv/YFGED2EXLRQLUSCVFTZPLAW4/14186/index.m3u8
+http://6afab026.russtv.net/iptv/BGYHD5NF8C2QCX/14186/index.m3u8
 #EXTINF:-1 tvg-id="9384" tvg-logo="http://epg.one/img/9384.png" tvg-name="" group-title="Okko Event",ОККО EVENT 1
-http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/14186/index.m3u8
+http://realcdn.top:8080/free/iptv/TF4HC57RYNUUFV/14186/index.m3u8
 #EXTINF:-1 tvg-id="9384" tvg-logo="http://epg.one/img/9384.png" tvg-name="" group-title="Okko Event",ОККО EVENT 1
 http://2477fd5f.cbilant.com/iptv/WCSZMUM84X4689VHGC7UDAQQ/14186/index.m3u
-#EXTINF:-1 tvg-id="9384" tvg-logo="http://epg.one/img/9384.png" tvg-name="" group-title="Okko Event",ОККО EVENT 1
-http://52c7a36a.tvclub.xyz/iptv/7HLZGPGACQAFGC/14186/index.m3u8
 #EXTINF:-1 tvg-id="9384" tvg-logo="http://epg.one/img/9384.png" tvg-name="" group-title="Okko Event",ОККО EVENT 1
 http://jwxatuns.siauliairsavlt.pw/iptv/C9SB9TDVBHF53QEWEV82E3B9/14186/index.m3u8
 #EXTINF:-1 tvg-id="9384" tvg-logo="http://epg.one/img/9384.png" tvg-name="" group-title="Okko Event",ОККО EVENT 1
 http://9udld7sa.megatv.fun/iptv/BCYMV3R4DKK6QL/14186/index.m3u
 #EXTINF:-1 tvg-id="9384" tvg-logo="http://epg.one/img/9384.png" tvg-name="" group-title="Okko Event",ОККО EVENT 1
 http://9udld7sa.megatv.fun/iptv/5SZPYLB5U9UTDB/14186/index.m3u
+#EXTINF:-1 tvg-id="9384" tvg-logo="http://epg.one/img/9384.png" tvg-name="" group-title="Okko Event",ОККО EVENT 1
+http://52c7a36a.tvclub.xyz/iptv/7HLZGPGACQAFGC/14186/index.m3u8
 
 #EXTINF:-1 tvg-id="9385" tvg-logo="http://epg.one/img/9385.png" tvg-name="" group-title="Okko Event",ОККО EVENT 2
 http://x3m.li/live/buk8YDg1/kXBoUb25/18969.m3u8
 #EXTINF:-1 tvg-id="9385" tvg-logo="http://epg.one/img/9385.png" tvg-name="" group-title="Okko Event",ОККО EVENT 2
-http://4afc0bdb.rossteleccom.net/iptv/YFGED2EXLRQLUSCVFTZPLAW4/14187/index.m3u8
+http://6afab026.russtv.net/iptv/BGYHD5NF8C2QCX/14187/index.m3u8
 #EXTINF:-1 tvg-id="9385" tvg-logo="http://epg.one/img/9385.png" tvg-name="" group-title="Okko Event",ОККО EVENT 2
-http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/14187/index.m3u8
+http://realcdn.top:8080/free/iptv/TF4HC57RYNUUFV/14187/index.m3u8
 #EXTINF:-1 tvg-id="9385" tvg-logo="http://epg.one/img/9385.png" tvg-name="" group-title="Okko Event",ОККО EVENT 2
 http://2477fd5f.cbilant.com/iptv/WCSZMUM84X4689VHGC7UDAQQ/14187/index.m3u
-#EXTINF:-1 tvg-id="9385" tvg-logo="http://epg.one/img/9385.png" tvg-name="" group-title="Okko Event",ОККО EVENT 2
-http://52c7a36a.tvclub.xyz/iptv/7HLZGPGACQAFGC/14187/index.m3u8
 #EXTINF:-1 tvg-id="9385" tvg-logo="http://epg.one/img/9385.png" tvg-name="" group-title="Okko Event",ОККО EVENT 2
 http://jwxatuns.siauliairsavlt.pw/iptv/C9SB9TDVBHF53QEWEV82E3B9/14187/index.m3u8
 #EXTINF:-1 tvg-id="9385" tvg-logo="http://epg.one/img/9385.png" tvg-name="" group-title="Okko Event",ОККО EVENT 2
 http://9udld7sa.megatv.fun/iptv/BCYMV3R4DKK6QL/14187/index.m3u
 #EXTINF:-1 tvg-id="9385" tvg-logo="http://epg.one/img/9385.png" tvg-name="" group-title="Okko Event",ОККО EVENT 2
 http://9udld7sa.megatv.fun/iptv/5SZPYLB5U9UTDB/14187/index.m3u
+#EXTINF:-1 tvg-id="9385" tvg-logo="http://epg.one/img/9385.png" tvg-name="" group-title="Okko Event",ОККО EVENT 2
+http://52c7a36a.tvclub.xyz/iptv/7HLZGPGACQAFGC/14187/index.m3u8
 
 #EXTINF:-1 tvg-id="9386" tvg-logo="http://epg.one/img/9386.png" tvg-name="" group-title="Okko Event",ОККО EVENT 3
 http://x3m.li/live/buk8YDg1/kXBoUb25/18970.m3u8
 #EXTINF:-1 tvg-id="9386" tvg-logo="http://epg.one/img/9386.png" tvg-name="" group-title="Okko Event",ОККО EVENT 3
-http://4afc0bdb.rossteleccom.net/iptv/YFGED2EXLRQLUSCVFTZPLAW4/14188/index.m3u8
+http://6afab026.russtv.net/iptv/BGYHD5NF8C2QCX/14188/index.m3u8
 #EXTINF:-1 tvg-id="9386" tvg-logo="http://epg.one/img/9386.png" tvg-name="" group-title="Okko Event",ОККО EVENT 3
-http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/14188/index.m3u8
+http://realcdn.top:8080/free/iptv/TF4HC57RYNUUFV/14188/index.m3u8
 #EXTINF:-1 tvg-id="9386" tvg-logo="http://epg.one/img/9386.png" tvg-name="" group-title="Okko Event",ОККО EVENT 3
 http://2477fd5f.cbilant.com/iptv/WCSZMUM84X4689VHGC7UDAQQ/14188/index.m3u
-#EXTINF:-1 tvg-id="9386" tvg-logo="http://epg.one/img/9386.png" tvg-name="" group-title="Okko Event",ОККО EVENT 3
-http://52c7a36a.tvclub.xyz/iptv/7HLZGPGACQAFGC/14188/index.m3u8
 #EXTINF:-1 tvg-id="9386" tvg-logo="http://epg.one/img/9386.png" tvg-name="" group-title="Okko Event",ОККО EVENT 3
 http://jwxatuns.siauliairsavlt.pw/iptv/C9SB9TDVBHF53QEWEV82E3B9/14188/index.m3u8
 #EXTINF:-1 tvg-id="9386" tvg-logo="http://epg.one/img/9386.png" tvg-name="" group-title="Okko Event",ОККО EVENT 3
 http://9udld7sa.megatv.fun/iptv/BCYMV3R4DKK6QL/14188/index.m3u
 #EXTINF:-1 tvg-id="9386" tvg-logo="http://epg.one/img/9386.png" tvg-name="" group-title="Okko Event",ОККО EVENT 3
 http://9udld7sa.megatv.fun/iptv/5SZPYLB5U9UTDB/14188/index.m3u
+#EXTINF:-1 tvg-id="9386" tvg-logo="http://epg.one/img/9386.png" tvg-name="" group-title="Okko Event",ОККО EVENT 3
+http://52c7a36a.tvclub.xyz/iptv/7HLZGPGACQAFGC/14188/index.m3u8
 
 #EXTINF:-1 tvg-id="9387" tvg-logo="http://epg.one/img/9387.png" tvg-name="" group-title="Okko Event",ОККО EVENT 4
 http://x3m.li/live/buk8YDg1/kXBoUb25/18971.m3u8
 #EXTINF:-1 tvg-id="9387" tvg-logo="http://epg.one/img/9387.png" tvg-name="" group-title="Okko Event",ОККО EVENT 4
-http://4afc0bdb.rossteleccom.net/iptv/YFGED2EXLRQLUSCVFTZPLAW4/14189/index.m3u8
+http://6afab026.russtv.net/iptv/BGYHD5NF8C2QCX/14189/index.m3u8
 #EXTINF:-1 tvg-id="9387" tvg-logo="http://epg.one/img/9387.png" tvg-name="" group-title="Okko Event",ОККО EVENT 4
-http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/14189/index.m3u8
+http://realcdn.top:8080/free/iptv/TF4HC57RYNUUFV/14189/index.m3u8
 #EXTINF:-1 tvg-id="9387" tvg-logo="http://epg.one/img/9387.png" tvg-name="" group-title="Okko Event",ОККО EVENT 4
 http://2477fd5f.cbilant.com/iptv/WCSZMUM84X4689VHGC7UDAQQ/14189/index.m3u
-#EXTINF:-1 tvg-id="9387" tvg-logo="http://epg.one/img/9387.png" tvg-name="" group-title="Okko Event",ОККО EVENT 4
-http://52c7a36a.tvclub.xyz/iptv/7HLZGPGACQAFGC/14189/index.m3u8
 #EXTINF:-1 tvg-id="9387" tvg-logo="http://epg.one/img/9387.png" tvg-name="" group-title="Okko Event",ОККО EVENT 4
 http://jwxatuns.siauliairsavlt.pw/iptv/C9SB9TDVBHF53QEWEV82E3B9/14189/index.m3u8
 #EXTINF:-1 tvg-id="9387" tvg-logo="http://epg.one/img/9387.png" tvg-name="" group-title="Okko Event",ОККО EVENT 4
 http://9udld7sa.megatv.fun/iptv/BCYMV3R4DKK6QL/14189/index.m3u
 #EXTINF:-1 tvg-id="9387" tvg-logo="http://epg.one/img/9387.png" tvg-name="" group-title="Okko Event",ОККО EVENT 4
 http://9udld7sa.megatv.fun/iptv/5SZPYLB5U9UTDB/14189/index.m3u
+#EXTINF:-1 tvg-id="9387" tvg-logo="http://epg.one/img/9387.png" tvg-name="" group-title="Okko Event",ОККО EVENT 4
+http://52c7a36a.tvclub.xyz/iptv/7HLZGPGACQAFGC/14189/index.m3u8
 
 #EXTINF:-1 tvg-id="9388" tvg-logo="http://epg.one/img/9388.png" tvg-name="" group-title="Okko Event",ОККО EVENT 5
 http://x3m.li/live/buk8YDg1/kXBoUb25/18972.m3u8
 #EXTINF:-1 tvg-id="9388" tvg-logo="http://epg.one/img/9388.png" tvg-name="" group-title="Okko Event",ОККО EVENT 5
-http://4afc0bdb.rossteleccom.net/iptv/YFGED2EXLRQLUSCVFTZPLAW4/14190/index.m3u8
+http://6afab026.russtv.net/iptv/BGYHD5NF8C2QCX/14190/index.m3u8
 #EXTINF:-1 tvg-id="9388" tvg-logo="http://epg.one/img/9388.png" tvg-name="" group-title="Okko Event",ОККО EVENT 5
-http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/14190/index.m3u8
+http://realcdn.top:8080/free/iptv/TF4HC57RYNUUFV/14190/index.m3u8
 #EXTINF:-1 tvg-id="9388" tvg-logo="http://epg.one/img/9388.png" tvg-name="" group-title="Okko Event",ОККО EVENT 5
 http://2477fd5f.cbilant.com/iptv/WCSZMUM84X4689VHGC7UDAQQ/14190/index.m3u
-#EXTINF:-1 tvg-id="9388" tvg-logo="http://epg.one/img/9388.png" tvg-name="" group-title="Okko Event",ОККО EVENT 5
-http://52c7a36a.tvclub.xyz/iptv/7HLZGPGACQAFGC/14190/index.m3u8
 #EXTINF:-1 tvg-id="9388" tvg-logo="http://epg.one/img/9388.png" tvg-name="" group-title="Okko Event",ОККО EVENT 5
 http://jwxatuns.siauliairsavlt.pw/iptv/C9SB9TDVBHF53QEWEV82E3B9/14190/index.m3u8
 #EXTINF:-1 tvg-id="9388" tvg-logo="http://epg.one/img/9388.png" tvg-name="" group-title="Okko Event",ОККО EVENT 5
 http://9udld7sa.megatv.fun/iptv/BCYMV3R4DKK6QL/14190/index.m3u
 #EXTINF:-1 tvg-id="9388" tvg-logo="http://epg.one/img/9388.png" tvg-name="" group-title="Okko Event",ОККО EVENT 5
 http://9udld7sa.megatv.fun/iptv/5SZPYLB5U9UTDB/14190/index.m3u
+#EXTINF:-1 tvg-id="9388" tvg-logo="http://epg.one/img/9388.png" tvg-name="" group-title="Okko Event",ОККО EVENT 5
+http://52c7a36a.tvclub.xyz/iptv/7HLZGPGACQAFGC/14190/index.m3u8
 
 #EXTINF:-1 tvg-id="9389" tvg-logo="http://epg.one/img/9389.png" tvg-name="" group-title="Okko Event",ОККО EVENT 6
 http://x3m.li/live/buk8YDg1/kXBoUb25/18973.m3u8
 #EXTINF:-1 tvg-id="9389" tvg-logo="http://epg.one/img/9389.png" tvg-name="" group-title="Okko Event",ОККО EVENT 6
-http://4afc0bdb.rossteleccom.net/iptv/YFGED2EXLRQLUSCVFTZPLAW4/14191/index.m3u8
+http://6afab026.russtv.net/iptv/BGYHD5NF8C2QCX/14191/index.m3u8
 #EXTINF:-1 tvg-id="9389" tvg-logo="http://epg.one/img/9389.png" tvg-name="" group-title="Okko Event",ОККО EVENT 6
-http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/14191/index.m3u8
+http://realcdn.top:8080/free/iptv/TF4HC57RYNUUFV/14191/index.m3u8
 #EXTINF:-1 tvg-id="9389" tvg-logo="http://epg.one/img/9389.png" tvg-name="" group-title="Okko Event",ОККО EVENT 6
 http://2477fd5f.cbilant.com/iptv/WCSZMUM84X4689VHGC7UDAQQ/14190/index.m3u
 #EXTINF:-1 tvg-id="9389" tvg-logo="http://epg.one/img/9389.png" tvg-name="" group-title="Okko Event",ОККО EVENT 6
@@ -183,9 +205,9 @@ http://9udld7sa.megatv.fun/iptv/5SZPYLB5U9UTDB/14191/index.m3u
 #EXTINF:-1 tvg-id="9649" tvg-logo="http://epg.one/img/9649.png" tvg-name="" group-title="Okko Event",ОККО EVENT 7
 http://x3m.li/live/buk8YDg1/kXBoUb25/18874.m3u8?utc=end
 #EXTINF:-1 tvg-id="9649" tvg-logo="http://epg.one/img/9649.png" tvg-name="" group-title="Okko Event",ОККО EVENT 7
-http://4afc0bdb.rossteleccom.net/iptv/YFGED2EXLRQLUSCVFTZPLAW4/31450/index.m3u8
+http://6afab026.russtv.net/iptv/BGYHD5NF8C2QCX/31450/index.m3u8
 #EXTINF:-1 tvg-id="9649" tvg-logo="http://epg.one/img/9649.png" tvg-name="" group-title="Okko Event",ОККО EVENT 7
-http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/31450/index.m3u8
+http://realcdn.top:8080/free/iptv/TF4HC57RYNUUFV/31450/index.m3u8
 #EXTINF:-1 tvg-id="9649" tvg-logo="http://epg.one/img/9649.png" tvg-name="" group-title="Okko Event",ОККО EVENT 7
 http://2477fd5f.cbilant.com/iptv/WCSZMUM84X4689VHGC7UDAQQ/31450/index.m3u
 #EXTINF:-1 tvg-id="9649" tvg-logo="http://epg.one/img/9649.png" tvg-name="" group-title="Okko Event",ОККО EVENT 7
@@ -197,13 +219,12 @@ http://hayv4hgp.rostelekom.xyz/iptv/56VSPXARPUGX6T/31450/index.m3u8
 #EXTINF:-1 tvg-id="9649" tvg-logo="http://epg.one/img/9649.png" tvg-name="" group-title="Okko Event",ОККО EVENT 7
 http://9udld7sa.megatv.fun/iptv/BCYMV3R4DKK6QL/31450/index.m3u
 
-
 #EXTINF:-1 tvg-id="9650" tvg-logo="http://epg.one/img/9650.png" tvg-name="" group-title="Okko Event",ОККО EVENT 8
 http://x3m.li/live/buk8YDg1/kXBoUb25/18875.m3u8?utc=end
 #EXTINF:-1 tvg-id="9650" tvg-logo="http://epg.one/img/9650.png" tvg-name="" group-title="Okko Event",ОККО EVENT 8
-http://4afc0bdb.rossteleccom.net/iptv/YFGED2EXLRQLUSCVFTZPLAW4/31451/index.m3u8
+http://6afab026.russtv.net/iptv/BGYHD5NF8C2QCX/31451/index.m3u8
 #EXTINF:-1 tvg-id="9650" tvg-logo="http://epg.one/img/9650.png" tvg-name="" group-title="Okko Event",ОККО EVENT 8
-http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/31451/index.m3u8
+http://realcdn.top:8080/free/iptv/TF4HC57RYNUUFV/31451/index.m3u8
 #EXTINF:-1 tvg-id="9650" tvg-logo="http://epg.one/img/9650.png" tvg-name="" group-title="Okko Event",ОККО EVENT 8
 http://2477fd5f.cbilant.com/iptv/WCSZMUM84X4689VHGC7UDAQQ/31451/index.m3u
 #EXTINF:-1 tvg-id="9650" tvg-logo="http://epg.one/img/9650.png" tvg-name="" group-title="Okko Event",ОККО EVENT 8
@@ -215,13 +236,12 @@ http://hayv4hgp.rostelekom.xyz/iptv/56VSPXARPUGX6T/31451/index.m3u8
 #EXTINF:-1 tvg-id="9650" tvg-logo="http://epg.one/img/9650.png" tvg-name="" group-title="Okko Event",ОККО EVENT 8
 http://9udld7sa.megatv.fun/iptv/BCYMV3R4DKK6QL/31451/index.m3u
 
-
 #EXTINF:-1 tvg-id="9651" tvg-logo="http://epg.one/img/9651.png" tvg-name="" group-title="Okko Event",ОККО EVENT 9
 http://x3m.li/live/buk8YDg1/kXBoUb25/18876.m3u8
 #EXTINF:-1 tvg-id="9651" tvg-logo="http://epg.one/img/9651.png" tvg-name="" group-title="Okko Event",ОККО EVENT 9
-http://4afc0bdb.rossteleccom.net/iptv/YFGED2EXLRQLUSCVFTZPLAW4/31452/index.m3u8
+http://6afab026.russtv.net/iptv/BGYHD5NF8C2QCX/31452/index.m3u8
 #EXTINF:-1 tvg-id="9651" tvg-logo="http://epg.one/img/9651.png" tvg-name="" group-title="Okko Event",ОККО EVENT 9
-http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/31452/index.m3u8
+http://realcdn.top:8080/free/iptv/TF4HC57RYNUUFV/31452/index.m3u8
 #EXTINF:-1 tvg-id="9651" tvg-logo="http://epg.one/img/9651.png" tvg-name="" group-title="Okko Event",ОККО EVENT 9
 http://2477fd5f.cbilant.com/iptv/WCSZMUM84X4689VHGC7UDAQQ/31452/index.m3u
 #EXTINF:-1 tvg-id="9651" tvg-logo="http://epg.one/img/9651.png" tvg-name="" group-title="Okko Event",ОККО EVENT 9
@@ -237,9 +257,9 @@ http://9udld7sa.megatv.fun/iptv/BCYMV3R4DKK6QL/31452/index.m3u
 #EXTINF:-1 tvg-id="9652" tvg-logo="http://epg.one/img/9652.png" tvg-name="" group-title="Okko Event",ОККО EVENT 10
 http://x3m.li/live/buk8YDg1/kXBoUb25/18877.m3u8
 #EXTINF:-1 tvg-id="9652" tvg-logo="http://epg.one/img/9652.png" tvg-name="" group-title="Okko Event",ОККО EVENT 10
-http://4afc0bdb.rossteleccom.net/iptv/YFGED2EXLRQLUSCVFTZPLAW4/31453/index.m3u8
+http://6afab026.russtv.net/iptv/BGYHD5NF8C2QCX/31453/index.m3u8
 #EXTINF:-1 tvg-id="9652" tvg-logo="http://epg.one/img/9652.png" tvg-name="" group-title="Okko Event",ОККО EVENT 10
-http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/31453/index.m3u8
+http://realcdn.top:8080/free/iptv/TF4HC57RYNUUFV/31453/index.m3u8
 #EXTINF:-1 tvg-id="9652" tvg-logo="http://epg.one/img/9652.png" tvg-name="" group-title="Okko Event",ОККО EVENT 10
 http://2477fd5f.cbilant.com/iptv/WCSZMUM84X4689VHGC7UDAQQ/31453/index.m3u
 #EXTINF:-1 tvg-id="9652" tvg-logo="http://epg.one/img/9652.png" tvg-name="" group-title="Okko Event",ОККО EVENT 10
@@ -255,9 +275,9 @@ http://9udld7sa.megatv.fun/iptv/BCYMV3R4DKK6QL/31453/index.m3u
 #EXTINF:-1 tvg-id="9653" tvg-logo="http://epg.one/img/9653.png" tvg-name="" group-title="Okko Event",ОККО EVENT 11
 http://x3m.li/live/buk8YDg1/kXBoUb25/18878.m3u8
 #EXTINF:-1 tvg-id="9653" tvg-logo="http://epg.one/img/9653.png" tvg-name="" group-title="Okko Event",ОККО EVENT 11
-http://4afc0bdb.rossteleccom.net/iptv/YFGED2EXLRQLUSCVFTZPLAW4/31454/index.m3u8
+http://6afab026.russtv.net/iptv/BGYHD5NF8C2QCX/31454/index.m3u8
 #EXTINF:-1 tvg-id="9653" tvg-logo="http://epg.one/img/9653.png" tvg-name="" group-title="Okko Event",ОККО EVENT 11
-http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/31454/index.m3u8
+http://realcdn.top:8080/free/iptv/TF4HC57RYNUUFV/31454/index.m3u8
 #EXTINF:-1 tvg-id="9653" tvg-logo="http://epg.one/img/9653.png" tvg-name="" group-title="Okko Event",ОККО EVENT 11
 http://2477fd5f.cbilant.com/iptv/WCSZMUM84X4689VHGC7UDAQQ/31454/index.m3u
 #EXTINF:-1 tvg-id="9653" tvg-logo="http://epg.one/img/9653.png" tvg-name="" group-title="Okko Event",ОККО EVENT 11
@@ -273,9 +293,9 @@ http://9udld7sa.megatv.fun/iptv/BCYMV3R4DKK6QL/31454/index.m3u
 #EXTINF:-1 tvg-id="9654" tvg-logo="http://epg.one/img/9654.png" tvg-name="" group-title="Okko Event",ОККО EVENT 12
 http://x3m.li/live/buk8YDg1/kXBoUb25/18879.m3u8
 #EXTINF:-1 tvg-id="9654" tvg-logo="http://epg.one/img/9654.png" tvg-name="" group-title="Okko Event",ОККО EVENT 12
-http://4afc0bdb.rossteleccom.net/iptv/YFGED2EXLRQLUSCVFTZPLAW4/31457/index.m3u8
+http://6afab026.russtv.net/iptv/BGYHD5NF8C2QCX/31457/index.m3u8
 #EXTINF:-1 tvg-id="9654" tvg-logo="http://epg.one/img/9654.png" tvg-name="" group-title="Okko Event",ОККО EVENT 12
-http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/31457/index.m3u8
+http://realcdn.top:8080/free/iptv/TF4HC57RYNUUFV/31457/index.m3u8
 #EXTINF:-1 tvg-id="9654" tvg-logo="http://epg.one/img/9654.png" tvg-name="" group-title="Okko Event",ОККО EVENT 12
 http://2477fd5f.cbilant.com/iptv/WCSZMUM84X4689VHGC7UDAQQ/31457/index.m3u
 #EXTINF:-1 tvg-id="9654" tvg-logo="http://epg.one/img/9654.png" tvg-name="" group-title="Okko Event",ОККО EVENT 12
@@ -291,9 +311,9 @@ http://9udld7sa.megatv.fun/iptv/BCYMV3R4DKK6QL/31457/index.m3u
 #EXTINF:-1 tvg-id="9655" tvg-logo="http://epg.one/img/9655.png" tvg-name="" group-title="Okko Event",ОККО EVENT 13
 http://x3m.li/live/buk8YDg1/kXBoUb25/18880.m3u8
 #EXTINF:-1 tvg-id="9655" tvg-logo="http://epg.one/img/9655.png" tvg-name="" group-title="Okko Event",ОККО EVENT 13
-http://4afc0bdb.rossteleccom.net/iptv/YFGED2EXLRQLUSCVFTZPLAW4/31458/index.m3u8
+http://6afab026.russtv.net/iptv/BGYHD5NF8C2QCX/31458/index.m3u8
 #EXTINF:-1 tvg-id="9655" tvg-logo="http://epg.one/img/9655.png" tvg-name="" group-title="Okko Event",ОККО EVENT 13
-http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/31458/index.m3u8
+http://realcdn.top:8080/free/iptv/TF4HC57RYNUUFV/31458/index.m3u8
 #EXTINF:-1 tvg-id="9655" tvg-logo="http://epg.one/img/9655.png" tvg-name="" group-title="Okko Event",ОККО EVENT 13
 http://2477fd5f.cbilant.com/iptv/WCSZMUM84X4689VHGC7UDAQQ/31458/index.m3u
 #EXTINF:-1 tvg-id="9655" tvg-logo="http://epg.one/img/9655.png" tvg-name="" group-title="Okko Event",ОККО EVENT 13
@@ -308,9 +328,9 @@ http://9udld7sa.megatv.fun/iptv/BCYMV3R4DKK6QL/31458/index.m3u
 #EXTINF:-1 tvg-id="9656" tvg-logo="http://epg.one/img/9656.png" tvg-name="" group-title="Okko Event",ОККО EVENT 14
 http://x3m.li/live/buk8YDg1/kXBoUb25/18881.m3u8
 #EXTINF:-1 tvg-id="9656" tvg-logo="http://epg.one/img/9656.png" tvg-name="" group-title="Okko Event",ОККО EVENT 14
-http://4afc0bdb.rossteleccom.net/iptv/YFGED2EXLRQLUSCVFTZPLAW4/31459/index.m3u8
+http://6afab026.russtv.net/iptv/BGYHD5NF8C2QCX/31459/index.m3u8
 #EXTINF:-1 tvg-id="9656" tvg-logo="http://epg.one/img/9656.png" tvg-name="" group-title="Okko Event",ОККО EVENT 14
-http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/31459/index.m3u8
+http://realcdn.top:8080/free/iptv/TF4HC57RYNUUFV/31459/index.m3u8
 #EXTINF:-1 tvg-id="9656" tvg-logo="http://epg.one/img/9656.png" tvg-name="" group-title="Okko Event",ОККО EVENT 14
 http://2477fd5f.cbilant.com/iptv/WCSZMUM84X4689VHGC7UDAQQ/31459/index.m3u
 #EXTINF:-1 tvg-id="9656" tvg-logo="http://epg.one/img/9656.png" tvg-name="" group-title="Okko Event",ОККО EVENT 14
@@ -325,9 +345,9 @@ http://9udld7sa.megatv.fun/iptv/5SZPYLB5U9UTDB/31459/index.m3u
 #EXTINF:-1 tvg-id="9843" tvg-logo="http://epg.one/img/9843.png" tvg-name="" group-title="Okko Event",ОККО EVENT 15
 http://x3m.li/live/buk8YDg1/kXBoUb25/18882.m3u8
 #EXTINF:-1 tvg-id="9843" tvg-logo="http://epg.one/img/9843.png" tvg-name="" group-title="Okko Event",ОККО EVENT 15
-http://4afc0bdb.rossteleccom.net/iptv/YFGED2EXLRQLUSCVFTZPLAW4/31463/index.m3u8
+http://6afab026.russtv.net/iptv/BGYHD5NF8C2QCX/31463/index.m3u8
 #EXTINF:-1 tvg-id="9843" tvg-logo="http://epg.one/img/9843.png" tvg-name="" group-title="Okko Event",ОККО EVENT 15
-http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/31463/index.m3u8
+http://realcdn.top:8080/free/iptv/TF4HC57RYNUUFV/31463/index.m3u8
 #EXTINF:-1 tvg-id="9843" tvg-logo="http://epg.one/img/9843.png" tvg-name="" group-title="Okko Event",ОККО EVENT 15
 http://2477fd5f.cbilant.com/iptv/WCSZMUM84X4689VHGC7UDAQQ/31463/index.m3u
 #EXTINF:-1 tvg-id="9843" tvg-logo="http://epg.one/img/9843.png" tvg-name="" group-title="Okko Event",ОККО EVENT 15
@@ -343,9 +363,9 @@ http://9udld7sa.megatv.fun/iptv/BCYMV3R4DKK6QL/31463/index.m3u
 #EXTINF:-1 tvg-id="9853" tvg-logo="http://epg.one/img/9853.png" tvg-name="" group-title="Okko Event",ОККО EVENT 16
 http://x3m.li/live/buk8YDg1/kXBoUb25/18883.m3u8
 #EXTINF:-1 tvg-id="9853" tvg-logo="http://epg.one/img/9853.png" tvg-name="" group-title="Okko Event",ОККО EVENT 16
-http://4afc0bdb.rossteleccom.net/iptv/YFGED2EXLRQLUSCVFTZPLAW4/31522/index.m3u8
+http://6afab026.russtv.net/iptv/BGYHD5NF8C2QCX/31522/index.m3u8
 #EXTINF:-1 tvg-id="9853" tvg-logo="http://epg.one/img/9853.png" tvg-name="" group-title="Okko Event",ОККО EVENT 16
-http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/31522/index.m3u8
+http://realcdn.top:8080/free/iptv/TF4HC57RYNUUFV/31522/index.m3u8
 #EXTINF:-1 tvg-id="9853" tvg-logo="http://epg.one/img/9853.png" tvg-name="" group-title="Okko Event",ОККО EVENT 16
 http://2477fd5f.cbilant.com/iptv/WCSZMUM84X4689VHGC7UDAQQ/31522/index.m3u
 #EXTINF:-1 tvg-id="9853" tvg-logo="http://epg.one/img/9853.png" tvg-name="" group-title="Okko Event",ОККО EVENT 16
@@ -360,9 +380,9 @@ http://9udld7sa.megatv.fun/iptv/BCYMV3R4DKK6QL/31522/index.m3u
 #EXTINF:-1 tvg-id="9854" tvg-logo="http://epg.one/img/9854.png" tvg-name="" group-title="Okko Event",ОККО EVENT 17
 http://x3m.li/live/buk8YDg1/kXBoUb25/18884.m3u8
 #EXTINF:-1 tvg-id="9854" tvg-logo="http://epg.one/img/9854.png" tvg-name="" group-title="Okko Event",ОККО EVENT 17
-http://4afc0bdb.rossteleccom.net/iptv/YFGED2EXLRQLUSCVFTZPLAW4/31523/index.m3u8
+http://6afab026.russtv.net/iptv/BGYHD5NF8C2QCX/31523/index.m3u8
 #EXTINF:-1 tvg-id="9854" tvg-logo="http://epg.one/img/9854.png" tvg-name="" group-title="Okko Event",ОККО EVENT 17
-http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/31523/index.m3u8
+http://realcdn.top:8080/free/iptv/TF4HC57RYNUUFV/31523/index.m3u8
 #EXTINF:-1 tvg-id="9854" tvg-logo="http://epg.one/img/9854.png" tvg-name="" group-title="Okko Event",ОККО EVENT 17
 http://2477fd5f.cbilant.com/iptv/WCSZMUM84X4689VHGC7UDAQQ/31523/index.m3u
 #EXTINF:-1 tvg-id="9854" tvg-logo="http://epg.one/img/9854.png" tvg-name="" group-title="Okko Event",ОККО EVENT 17
@@ -377,9 +397,9 @@ http://9udld7sa.megatv.fun/iptv/BCYMV3R4DKK6QL/31523/index.m3u
 #EXTINF:-1 tvg-id="9855" tvg-logo="http://epg.one/img/9855.png" tvg-name="" group-title="Okko Event",ОККО EVENT 18
 http://x3m.li/live/buk8YDg1/kXBoUb25/18885.m3u8
 #EXTINF:-1 tvg-id="9855" tvg-logo="http://epg.one/img/9855.png" tvg-name="" group-title="Okko Event",ОККО EVENT 18
-http://4afc0bdb.rossteleccom.net/iptv/YFGED2EXLRQLUSCVFTZPLAW4/31524/index.m3u8
+http://6afab026.russtv.net/iptv/BGYHD5NF8C2QCX/31524/index.m3u8
 #EXTINF:-1 tvg-id="9855" tvg-logo="http://epg.one/img/9855.png" tvg-name="" group-title="Okko Event",ОККО EVENT 18
-http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/31524/index.m3u8
+http://realcdn.top:8080/free/iptv/TF4HC57RYNUUFV/31524/index.m3u8
 #EXTINF:-1 tvg-id="9855" tvg-logo="http://epg.one/img/9855.png" tvg-name="" group-title="Okko Event",ОККО EVENT 18
 http://2477fd5f.cbilant.com/iptv/WCSZMUM84X4689VHGC7UDAQQ/31524/index.m3u
 #EXTINF:-1 tvg-id="9855" tvg-logo="http://epg.one/img/9855.png" tvg-name="" group-title="Okko Event",ОККО EVENT 18
@@ -395,9 +415,9 @@ http://9udld7sa.megatv.fun/iptv/BCYMV3R4DKK6QL/31524/index.m3u
 #EXTINF:-1 tvg-id="9856" tvg-logo="http://epg.one/img/9856.png" tvg-name="" group-title="Okko Event",ОККО EVENT 19
 http://x3m.li/live/buk8YDg1/kXBoUb25/18886.m3u8
 #EXTINF:-1 tvg-id="9856" tvg-logo="http://epg.one/img/9856.png" tvg-name="" group-title="Okko Event",ОККО EVENT 19
-http://4afc0bdb.rossteleccom.net/iptv/YFGED2EXLRQLUSCVFTZPLAW4/31525/index.m3u8
+http://6afab026.russtv.net/iptv/BGYHD5NF8C2QCX/31525/index.m3u8
 #EXTINF:-1 tvg-id="9856" tvg-logo="http://epg.one/img/9856.png" tvg-name="" group-title="Okko Event",ОККО EVENT 19
-http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/31525/index.m3u8
+http://realcdn.top:8080/free/iptv/TF4HC57RYNUUFV/31525/index.m3u8
 #EXTINF:-1 tvg-id="9856" tvg-logo="http://epg.one/img/9856.png" tvg-name="" group-title="Okko Event",ОККО EVENT 19
 http://2477fd5f.cbilant.com/iptv/WCSZMUM84X4689VHGC7UDAQQ/31525/index.m3u
 #EXTINF:-1 tvg-id="9856" tvg-logo="http://epg.one/img/9856.png" tvg-name="" group-title="Okko Event",ОККО EVENT 19
@@ -412,9 +432,9 @@ http://9udld7sa.megatv.fun/iptv/BCYMV3R4DKK6QL/31525/index.m3u
 #EXTINF:-1 tvg-id="9857" tvg-logo="http://epg.one/img/9857.png" tvg-name="" group-title="Okko Event",ОККО EVENT 20
 http://x3m.li/live/buk8YDg1/kXBoUb25/18887.m3u8
 #EXTINF:-1 tvg-id="9857" tvg-logo="http://epg.one/img/9857.png" tvg-name="" group-title="Okko Event",ОККО EVENT 20
-http://4afc0bdb.rossteleccom.net/iptv/YFGED2EXLRQLUSCVFTZPLAW4/31526/index.m3u8
+http://6afab026.russtv.net/iptv/BGYHD5NF8C2QCX/31526/index.m3u8
 #EXTINF:-1 tvg-id="9857" tvg-logo="http://epg.one/img/9857.png" tvg-name="" group-title="Okko Event",ОККО EVENT 20
-http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/31526/index.m3u8
+http://realcdn.top:8080/free/iptv/TF4HC57RYNUUFV/31526/index.m3u8
 #EXTINF:-1 tvg-id="9857" tvg-logo="http://epg.one/img/9857.png" tvg-name="" group-title="Okko Event",ОККО EVENT 20
 http://2477fd5f.cbilant.com/iptv/WCSZMUM84X4689VHGC7UDAQQ/31526/index.m3u
 #EXTINF:-1 tvg-id="9857" tvg-logo="http://epg.one/img/9857.png" tvg-name="" group-title="Okko Event",ОККО EVENT 20
@@ -430,9 +450,9 @@ http://9udld7sa.megatv.fun/iptv/BCYMV3R4DKK6QL/31526/index.m3u
 #EXTINF:-1 tvg-id="9858" tvg-logo="http://epg.one/img/9858.png" tvg-name="" group-title="Okko Event",ОККО EVENT 21
 http://x3m.li/live/buk8YDg1/kXBoUb25/18888.m3u8
 #EXTINF:-1 tvg-id="9858" tvg-logo="http://epg.one/img/9858.png" tvg-name="" group-title="Okko Event",ОККО EVENT 21
-http://4afc0bdb.rossteleccom.net/iptv/YFGED2EXLRQLUSCVFTZPLAW4/31527/index.m3u8
+http://6afab026.russtv.net/iptv/BGYHD5NF8C2QCX/31527/index.m3u8
 #EXTINF:-1 tvg-id="9858" tvg-logo="http://epg.one/img/9858.png" tvg-name="" group-title="Okko Event",ОККО EVENT 21
-http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/31527/index.m3u8
+http://realcdn.top:8080/free/iptv/TF4HC57RYNUUFV/31527/index.m3u8
 #EXTINF:-1 tvg-id="9858" tvg-logo="http://epg.one/img/9858.png" tvg-name="" group-title="Okko Event",ОККО EVENT 21
 http://2477fd5f.cbilant.com/iptv/WCSZMUM84X4689VHGC7UDAQQ/31527/index.m3u
 #EXTINF:-1 tvg-id="9858" tvg-logo="http://epg.one/img/9858.png" tvg-name="" group-title="Okko Event",ОККО EVENT 21
@@ -448,9 +468,9 @@ http://9udld7sa.megatv.fun/iptv/BCYMV3R4DKK6QL/31527/index.m3u
 #EXTINF:-1 tvg-id="9859" tvg-logo="http://epg.one/img/9859.png" tvg-name="" group-title="Okko Event",ОККО EVENT 22
 http://x3m.li/live/buk8YDg1/kXBoUb25/18889.m3u8
 #EXTINF:-1 tvg-id="9859" tvg-logo="http://epg.one/img/9859.png" tvg-name="" group-title="Okko Event",ОККО EVENT 22
-http://4afc0bdb.rossteleccom.net/iptv/YFGED2EXLRQLUSCVFTZPLAW4/31528/index.m3u8
+http://6afab026.russtv.net/iptv/BGYHD5NF8C2QCX/31528/index.m3u8
 #EXTINF:-1 tvg-id="9859" tvg-logo="http://epg.one/img/9859.png" tvg-name="" group-title="Okko Event",ОККО EVENT 22
-http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/31528/index.m3u8
+http://realcdn.top:8080/free/iptv/TF4HC57RYNUUFV/31528/index.m3u8
 #EXTINF:-1 tvg-id="9859" tvg-logo="http://epg.one/img/9859.png" tvg-name="" group-title="Okko Event",ОККО EVENT 22
 http://2477fd5f.cbilant.com/iptv/WCSZMUM84X4689VHGC7UDAQQ/31528/index.m3u
 #EXTINF:-1 tvg-id="9859" tvg-logo="http://epg.one/img/9859.png" tvg-name="" group-title="Okko Event",ОККО EVENT 22
@@ -466,9 +486,9 @@ http://9udld7sa.megatv.fun/iptv/BCYMV3R4DKK6QL/31528/index.m3u
 #EXTINF:-1 tvg-id="9860" tvg-logo="http://epg.one/img/9860.png" tvg-name="" group-title="Okko Event",ОККО EVENT 23
 http://x3m.li/live/buk8YDg1/kXBoUb25/18890.m3u8?utc=end
 #EXTINF:-1 tvg-id="9860" tvg-logo="http://epg.one/img/9860.png" tvg-name="" group-title="Okko Event",ОККО EVENT 23
-http://4afc0bdb.rossteleccom.net/iptv/YFGED2EXLRQLUSCVFTZPLAW4/31529/index.m3u8
+http://6afab026.russtv.net/iptv/BGYHD5NF8C2QCX/31529/index.m3u8
 #EXTINF:-1 tvg-id="9860" tvg-logo="http://epg.one/img/9860.png" tvg-name="" group-title="Okko Event",ОККО EVENT 23
-http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/31529/index.m3u8
+http://realcdn.top:8080/free/iptv/TF4HC57RYNUUFV/31529/index.m3u8
 #EXTINF:-1 tvg-id="9860" tvg-logo="http://epg.one/img/9860.png" tvg-name="" group-title="Okko Event",ОККО EVENT 23
 http://2477fd5f.cbilant.com/iptv/WCSZMUM84X4689VHGC7UDAQQ/31529/index.m3u
 #EXTINF:-1 tvg-id="9860" tvg-logo="http://epg.one/img/9860.png" tvg-name="" group-title="Okko Event",ОККО EVENT 23
@@ -484,9 +504,9 @@ http://9udld7sa.megatv.fun/iptv/BCYMV3R4DKK6QL/31529/index.m3u
 #EXTINF:-1 tvg-id="9861" tvg-logo="http://epg.one/img/9861.png" tvg-name="" group-title="Okko Event",ОККО EVENT 24
 http://x3m.li/live/buk8YDg1/kXBoUb25/18891.m3u8
 #EXTINF:-1 tvg-id="9861" tvg-logo="http://epg.one/img/9861.png" tvg-name="" group-title="Okko Event",ОККО EVENT 24
-http://4afc0bdb.rossteleccom.net/iptv/YFGED2EXLRQLUSCVFTZPLAW4/31530/index.m3u8
+http://6afab026.russtv.net/iptv/BGYHD5NF8C2QCX/31530/index.m3u8
 #EXTINF:-1 tvg-id="9861" tvg-logo="http://epg.one/img/9861.png" tvg-name="" group-title="Okko Event",ОККО EVENT 24
-http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/31530/index.m3u8
+http://realcdn.top:8080/free/iptv/TF4HC57RYNUUFV/31530/index.m3u8
 #EXTINF:-1 tvg-id="9861" tvg-logo="http://epg.one/img/9861.png" tvg-name="" group-title="Okko Event",ОККО EVENT 24
 http://2477fd5f.cbilant.com/iptv/WCSZMUM84X4689VHGC7UDAQQ/31530/index.m3u
 #EXTINF:-1 tvg-id="9861" tvg-logo="http://epg.one/img/9861.png" tvg-name="" group-title="Okko Event",ОККО EVENT 24
@@ -502,9 +522,9 @@ http://9udld7sa.megatv.fun/iptv/BCYMV3R4DKK6QL/31530/index.m3u
 #EXTINF:-1 tvg-id="9862" tvg-logo="http://epg.one/img/9862.png" tvg-name="" group-title="Okko Event",ОККО EVENT 25
 http://x3m.li/live/buk8YDg1/kXBoUb25/18892.m3u8
 #EXTINF:-1 tvg-id="9862" tvg-logo="http://epg.one/img/9862.png" tvg-name="" group-title="Okko Event",ОККО EVENT 25
-http://4afc0bdb.rossteleccom.net/iptv/YFGED2EXLRQLUSCVFTZPLAW4/31531/index.m3u8
+http://6afab026.russtv.net/iptv/BGYHD5NF8C2QCX/31531/index.m3u8
 #EXTINF:-1 tvg-id="9862" tvg-logo="http://epg.one/img/9862.png" tvg-name="" group-title="Okko Event",ОККО EVENT 25
-http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/31531/index.m3u8
+http://realcdn.top:8080/free/iptv/TF4HC57RYNUUFV/31531/index.m3u8
 #EXTINF:-1 tvg-id="9862" tvg-logo="http://epg.one/img/9862.png" tvg-name="" group-title="Okko Event",ОККО EVENT 25
 http://2477fd5f.cbilant.com/iptv/WCSZMUM84X4689VHGC7UDAQQ/31531/index.m3u
 #EXTINF:-1 tvg-id="9862" tvg-logo="http://epg.one/img/9862.png" tvg-name="" group-title="Okko Event",ОККО EVENT 25
@@ -520,9 +540,9 @@ http://9udld7sa.megatv.fun/iptv/BCYMV3R4DKK6QL/31531/index.m3u
 #EXTINF:-1 tvg-id="9863" tvg-logo="http://epg.one/img/9863.png" tvg-name="" group-title="Okko Event",ОККО EVENT 26
 http://x3m.li/live/buk8YDg1/kXBoUb25/18893.m3u8
 #EXTINF:-1 tvg-id="9863" tvg-logo="http://epg.one/img/9863.png" tvg-name="" group-title="Okko Event",ОККО EVENT 26
-http://4afc0bdb.rossteleccom.net/iptv/YFGED2EXLRQLUSCVFTZPLAW4/31532/index.m3u8
+http://6afab026.russtv.net/iptv/BGYHD5NF8C2QCX/31532/index.m3u8
 #EXTINF:-1 tvg-id="9863" tvg-logo="http://epg.one/img/9863.png" tvg-name="" group-title="Okko Event",ОККО EVENT 26
-http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/31532/index.m3u8
+http://realcdn.top:8080/free/iptv/TF4HC57RYNUUFV/31532/index.m3u8
 #EXTINF:-1 tvg-id="9863" tvg-logo="http://epg.one/img/9863.png" tvg-name="" group-title="Okko Event",ОККО EVENT 26
 http://2477fd5f.cbilant.com/iptv/WCSZMUM84X4689VHGC7UDAQQ/31532/index.m3u
 #http://52c7a36a.tvclub.xyz/iptv/7HLZGPGACQAFGC/31532/index.m3u8
@@ -538,9 +558,9 @@ http://9udld7sa.megatv.fun/iptv/5SZPYLB5U9UTDB/31532/index.m3u
 #EXTINF:-1 tvg-id="9864" tvg-logo="http://epg.one/img/9864.png" tvg-name="" group-title="Okko Event",ОККО EVENT 27
 http://x3m.li/live/buk8YDg1/kXBoUb25/18894.m3u8
 #EXTINF:-1 tvg-id="9864" tvg-logo="http://epg.one/img/9864.png" tvg-name="" group-title="Okko Event",ОККО EVENT 27
-http://4afc0bdb.rossteleccom.net/iptv/YFGED2EXLRQLUSCVFTZPLAW4/31533/index.m3u8
+http://6afab026.russtv.net/iptv/BGYHD5NF8C2QCX/31533/index.m3u8
 #EXTINF:-1 tvg-id="9864" tvg-logo="http://epg.one/img/9864.png" tvg-name="" group-title="Okko Event",ОККО EVENT 27
-http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/31533/index.m3u8
+http://realcdn.top:8080/free/iptv/TF4HC57RYNUUFV/31533/index.m3u8
 #EXTINF:-1 tvg-id="9864" tvg-logo="http://epg.one/img/9864.png" tvg-name="" group-title="Okko Event",ОККО EVENT 27
 http://2477fd5f.cbilant.com/iptv/WCSZMUM84X4689VHGC7UDAQQ/31533/index.m3u
 #EXTINF:-1 tvg-id="9864" tvg-logo="http://epg.one/img/9864.png" tvg-name="" group-title="Okko Event",ОККО EVENT 27
@@ -556,9 +576,9 @@ http://9udld7sa.megatv.fun/iptv/BCYMV3R4DKK6QL/31533/index.m3u
 #EXTINF:-1 tvg-id="9865" tvg-logo="http://epg.one/img/9865.png" tvg-name="" group-title="Okko Event",ОККО EVENT 28
 http://x3m.li/live/buk8YDg1/kXBoUb25/18895.m3u8
 #EXTINF:-1 tvg-id="9865" tvg-logo="http://epg.one/img/9865.png" tvg-name="" group-title="Okko Event",ОККО EVENT 28
-http://4afc0bdb.rossteleccom.net/iptv/YFGED2EXLRQLUSCVFTZPLAW4/31534/index.m3u8
+http://6afab026.russtv.net/iptv/BGYHD5NF8C2QCX/31534/index.m3u8
 #EXTINF:-1 tvg-id="9865" tvg-logo="http://epg.one/img/9865.png" tvg-name="" group-title="Okko Event",ОККО EVENT 28
-http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/31534/index.m3u8
+http://realcdn.top:8080/free/iptv/TF4HC57RYNUUFV/31534/index.m3u8
 #EXTINF:-1 tvg-id="9865" tvg-logo="http://epg.one/img/9865.png" tvg-name="" group-title="Okko Event",ОККО EVENT 28
 http://2477fd5f.cbilant.com/iptv/WCSZMUM84X4689VHGC7UDAQQ/31534/index.m3u
 #EXTINF:-1 tvg-id="9865" tvg-logo="http://epg.one/img/9865.png" tvg-name="" group-title="Okko Event",ОККО EVENT 28
@@ -574,9 +594,9 @@ http://9udld7sa.megatv.fun/iptv/BCYMV3R4DKK6QL/31534/index.m3u
 #EXTINF:-1 tvg-id="9866" tvg-logo="http://epg.one/img/9866.png" tvg-name="" group-title="Okko Event",ОККО EVENT 29
 http://x3m.li/live/buk8YDg1/kXBoUb25/18896.m3u8
 #EXTINF:-1 tvg-id="9866" tvg-logo="http://epg.one/img/9866.png" tvg-name="" group-title="Okko Event",ОККО EVENT 29
-http://4afc0bdb.rossteleccom.net/iptv/YFGED2EXLRQLUSCVFTZPLAW4/31535/index.m3u8
+http://6afab026.russtv.net/iptv/BGYHD5NF8C2QCX/31535/index.m3u8
 #EXTINF:-1 tvg-id="9866" tvg-logo="http://epg.one/img/9866.png" tvg-name="" group-title="Okko Event",ОККО EVENT 29
-http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/31535/index.m3u8
+http://realcdn.top:8080/free/iptv/TF4HC57RYNUUFV/31535/index.m3u8
 #EXTINF:-1 tvg-id="9866" tvg-logo="http://epg.one/img/9866.png" tvg-name="" group-title="Okko Event",ОККО EVENT 29
 http://2477fd5f.cbilant.com/iptv/WCSZMUM84X4689VHGC7UDAQQ/31535/index.m3u
 #EXTINF:-1 tvg-id="9866" tvg-logo="http://epg.one/img/9866.png" tvg-name="" group-title="Okko Event",ОККО EVENT 29
@@ -607,17 +627,17 @@ http://9udld7sa.megatv.fun/iptv/BCYMV3R4DKK6QL/31536/index.m3u
 http://9udld7sa.megatv.fun/iptv/5SZPYLB5U9UTDB/31536/index.m3u
 
 
-
 #EXTINF:-1 tvg-id=""  tvg-name="" group-title="Betking",Maincast Live 1
 http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/31679/index.m3u8
-#EXTINF:-1 tvg-id=""  tvg-name="" group-title="Betking",Betking Live 2
-http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/31680/index.m3u8
 
-
-
-
-
-
+#EXTINF:0 group-title="Betking" tvg-id="88021" tvg-logo="http://epg.one/img/88021.png" tvg-rec="0",Betking Live 1
+http://realcdn.top:8080/free/iptv/TF4HC57RYNUUFV/31679/index.m3u8
+#EXTINF:0 group-title="Betking" tvg-id="88021" tvg-logo="http://epg.one/img/88021.png" tvg-rec="0",Betking Live 1
+http://6afab026.russtv.net/iptv/BGYHD5NF8C2QCX/31679/index.m3u8
+#EXTINF:0 group-title="Betking" tvg-id="88022" tvg-logo="http://epg.one/img/88022.png" tvg-rec="0",Betking Live 2
+http://realcdn.top:8080/free/iptv/TF4HC57RYNUUFV/31680/index.m3u8
+#EXTINF:0 group-title="Betking" tvg-id="88022" tvg-logo="http://epg.one/img/88022.png" tvg-rec="0",Betking Live 2
+http://6afab026.russtv.net/iptv/BGYHD5NF8C2QCX/31680/index.m3u8
 
 #EXTINF:0 group-title="Setanta" tvg-id="6860" tvg-logo="https://ip-tv.dev/epg/icon/setanta-sports.png" tvg-rec="0",Setanta Sports Premium HD
 http://de.online24.pm/play/1650/0E5BF0B5A9755BD/video.m3u8
@@ -646,7 +666,7 @@ http://de.online24.pm/play/942/0E5BF0B5A9755BD/video.m3u8
 
 
 #EXTINF:0 group-title="Megogo" tvg-id="9395" tvg-logo="http://epg.one/img/9395.png" tvg-rec="0",Megogo Футбол 1 HD
-http://54.38.180.159/233/video.m3u8?token=A3b61a999e
+http://6afab026.russtv.net/iptv/BGYHD5NF8C2QCX/31483/index.m3u8
 #EXTINF:0 group-title="Megogo" tvg-id="9395" tvg-logo="http://epg.one/img/9395.png" tvg-rec="0",Megogo Футбол 1 HD
 http://zuvi6jfp.klaipedalt.org/iptv/9EEMQ96NEYM85HPTWGXHEBV7/31483/index.m3u8
 #EXTINF:0 group-title="Megogo" tvg-id="9395" tvg-logo="http://epg.one/img/9395.png" tvg-rec="0",Megogo Футбол 1 HD
@@ -664,7 +684,7 @@ http://146.59.93.251/10509/index.m3u8?token=B0CD410F7837
 
 
 #EXTINF:0 group-title="Megogo" tvg-id="9394" tvg-logo="http://epg.one/img/9394.png" tvg-rec="0",Megogo Футбол 2 HD
-http://54.38.180.159/234/video.m3u8?token=A3b61a999e
+http://realcdn.top:8080/free/iptv/TF4HC57RYNUUFV/31505/index.m3u8
 #EXTINF:0 group-title="Megogo" tvg-id="9394" tvg-logo="http://epg.one/img/9394.png" tvg-rec="0",Megogo Футбол 2 HD
 http://zuvi6jfp.klaipedalt.org/iptv/9EEMQ96NEYM85HPTWGXHEBV7/31505/index.m3u8
 #EXTINF:0 group-title="Megogo" tvg-id="9394" tvg-logo="http://epg.one/img/9394.png" tvg-rec="0",Megogo Футбол 2 HD
@@ -1180,10 +1200,6 @@ http://127.0.0.1:6878/ace/getstream?id=a1d67cb505881b2b5bc58ce2af367e5e6d26cab5
 #EXTINF:-1 group-title="Torent RU",МАТЧ! Страна
 http://127.0.0.1:6878/ace/getstream?id=ef9c77bd94783448b8edb552109f5f15b2bd82d1
 
-
-
-#EXTINF:-1 group-title="Torent зарубеж",Update 21.02.2026 19:20 по моск. времени
-http://127.0.0.1:6878/ace/getstream?id=a54d3ec9d49487cb1e9102c74f341fec4cebd189
 
 
 #EXTINF:-1 group-title="Torent зарубеж",AMAZON PRIME VIDEO 6 HD [BE]
